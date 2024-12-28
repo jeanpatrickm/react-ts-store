@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Macbook",
+    "price": 1099,
+    "imgUrl": "./public/imgs/macbook.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Monitor 540hz",
+    "price": 1199,
+    "imgUrl": "./public/imgs/monitor540hz.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Gaming computer",
+    "price": 10505,
+    "imgUrl": "./public/imgs/pcgamer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tablet",
+    "price": 14000,
+    "imgUrl": "./public/imgs/tablet.jpg"
+  }
+]
